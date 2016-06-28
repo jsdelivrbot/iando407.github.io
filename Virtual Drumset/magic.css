@@ -1,0 +1,59 @@
+body{
+    background-color: #3A80EA;
+}
+h1 {
+    text-align: center;
+    font-family:cursive;
+}
+
+#crash {
+    transform:translate(300px,0px);
+    width:200px;
+    height:200px;
+    border-radius: 100px;
+    /*border-color: solid black;*/
+    background-image: url()
+
+}
+
+#hihat {
+    transform:translate(30px,180px);
+    width: 100px;
+    height: 100px;
+    border-radius:50px;
+}
+
+#kick {
+    transform:translate(100px,280px);
+    width:250px;
+    height:250px;
+    border-radius:125px;
+}
+
+#ride {
+    transform:translate(100px,-60px);
+    width:200px;
+    height:200px;
+    border-radius:100px;
+}
+
+#snare {
+    transform:translate(40px,190px);
+    width:150px;
+    height:150px;
+    border-radius:75px;
+}
+
+#tom1 {
+    transform:translate(-400px,80px);
+    width:130px;
+    height:130px;
+    border-radius:65px;
+}
+
+#tom2 {
+    transform:translate(-370px,80px);
+    width:150px;
+    height:150px;
+    border-radius:75px;
+}

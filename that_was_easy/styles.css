@@ -1,5 +1,5 @@
 #easy {
-    /*position:absolute;*/
+    position:absolute;
     width: 300px;
     height: 300px;
     border-radius: 150px;
@@ -7,5 +7,6 @@
     background-color: red;
     font-size: 50px;
     color: white;
-    /*transform: translate(500px,0px);*/
+    transform: translate(500px,50px);
 }
+
