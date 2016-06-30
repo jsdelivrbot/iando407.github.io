@@ -44,8 +44,8 @@ function draw() {
         isShifted = !isShifted;
         
         rVal = (rVal + 254) % 256;
-        gVal = (gVal + 7) % 256;
-        bVal = (bVal + 3) % 256;
+        gVal = (gVal + 253) % 256;
+        bVal = (bVal + 252) % 256;
 
     }
 }
