@@ -128,7 +128,7 @@ function gameScore(){
     fill("white")
     textFont("Comic Sans MS")
     textSize(18)
-    text("Score : " + score , (width-120), (0+25));
+    text("Score : " + score , (width-120), (25));
 }
 
 function gamestarted(){
